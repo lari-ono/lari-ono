@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Larissa Hikari Ono
-- 🌱 I’m currently learning Python in the Data Science's course from FATEC OURINHOS/SP
-- 📫 How to reach me - larissa.ono@fatec.gov.sp.br
+Hello, my name is Larissa
+Larissa H. Ono is a student in Data Science at the Technology College of Ourinhos - FATEC. 
 
-<!---
-lari-ono/lari-ono is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Contact
+👔 Linkedin
+
+
+
