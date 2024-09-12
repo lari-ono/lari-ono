@@ -33,14 +33,9 @@ Sou uma profissional em constante aprendizado, apaixonada por tecnologia e quali
 
 <br> 
 
-## Atividades
-
-![Larissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=lari-ono&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lari-ono&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Curiosidades
 
 - 🎓 Graduada em Design de Produto e Ciência de Dados
-- 🏋️‍♂️ Frequento a academia 5 vezes por semana e não gosto da flexora vertical
+- 🏋️‍♂️ Frequento a academia e não gosto da flexora vertical
 - 📖 Gosto de ler (meu gênero preferido é romance, mas me recomenda alguns!)
