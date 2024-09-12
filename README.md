@@ -5,10 +5,6 @@ Sou uma profissional em constante aprendizado, apaixonada por tecnologia e quali
 
 <br>
 
-## **Skills**
-
-<br>
-
 ### UX/UI
 ----
 
