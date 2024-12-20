@@ -33,9 +33,3 @@ Sou uma profissional em constante aprendizado, apaixonada por tecnologia e quali
 
 <br> 
 
-
-## Curiosidades
-
-- 🎓 Graduada em Design de Produto e Ciência de Dados
-- 🏋️‍♂️ Frequento a academia e não gosto da flexora vertical
-- 📖 Gosto de ler (meu gênero preferido é romance, mas me recomenda alguns!)
